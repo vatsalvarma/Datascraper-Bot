@@ -1,0 +1,8 @@
+target/
+.idea/
+*.iml
+.env
+credentials.json
+credentials.json.json
+*.log
+*.html
